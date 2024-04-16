@@ -9,11 +9,9 @@ This is an open source module designed to perform the following tasks:
     
 Attributes:
     `default`: Yields the user's default working directory.
-    
     `english`: A list containing nearly every word in the English language.
     `stops`: A list containing every stopword / function word in the English language.
     `punctuation`: A string containing all ASCII punctuation characters.
-    
     `scifi_list`: A list containing science fiction indexing terms. Good to use as a default.
     
 Classes:
